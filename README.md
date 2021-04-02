@@ -1,2 +1,2 @@
 # AccessibleRecipes
-Easier recipes for Knapping/Clay Forming/Smithing
+Adds crafting grid recipes for knapping, clay forming, and smithing.
